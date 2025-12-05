@@ -4,17 +4,6 @@
 
 <nav class="navbar bg-base-100 shadow-md py-2 px-4 md:px-6 sticky top-0 z-50">
   <div class="navbar-start">
-    <div class="dropdown">
-      <label tabindex="0" class="btn btn-ghost lg:hidden">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
-      </label>
-      <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-        <li><a href="/about">Über uns</a></li>
-        <li><a href="/menu">Menü</a></li>
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="/contact">Kontakt</a></li>
-      </ul>
-    </div>
     <a href="/" class="btn btn-ghost h-auto p-0 hover:bg-transparent">
       <img src="/logo.png" alt="Cafe Kissler" class="h-12 md:h-20 w-auto object-contain mix-blend-multiply" />
     </a>
@@ -27,8 +16,18 @@
       <li><a href="/contact" class="font-semibold text-lg tracking-wide hover:text-primary transition-colors">Kontakt</a></li>
     </ul>
   </div>
-  <div class="navbar-end w-auto">
-    <!-- Optional CTA or empty for spacing -->
+  <div class="navbar-end">
+    <div class="dropdown dropdown-end">
+      <label tabindex="0" class="btn btn-ghost lg:hidden">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+      </label>
+      <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+        <li><a href="/about">Über uns</a></li>
+        <li><a href="/menu">Menü</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/contact">Kontakt</a></li>
+      </ul>
+    </div>
   </div>
 </nav>
 
