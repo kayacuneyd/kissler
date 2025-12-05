@@ -1,0 +1,1057 @@
+{
+  "menu": {
+    "restaurant": "Kissler",
+    "year": "2024",
+    "categories": [
+      {
+        "name": "Alkoholfreie Getränke",
+        "items": [
+          {
+            "name": "Mineralwasser",
+            "prices": [
+              { "amount": "0.25 l", "price": 2.50, "currency": "EUR" },
+              { "amount": "0.75 l", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Mineralwasser still",
+            "prices": [
+              { "amount": "0.25 l", "price": 2.50, "currency": "EUR" },
+              { "amount": "0.75 l", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Orangensaft",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Maracujasaft",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Apfelsaft",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Kirschsaft",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Bananensaft",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Johannesbeersaft",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Traubensaft",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Vitamin Mix",
+            "description": "eine Bombe aus Orangensaft & Fruchtstücken aus Honigmelone, Kiwi & Bananen gemixt",
+            "prices": [
+              { "amount": "0.40 l", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Frisch gepresster Orangensaft",
+            "prices": [
+              { "amount": "0.20 l", "price": 4.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Kalter Kakao",
+            "prices": [
+              { "amount": "Glas", "price": 2.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Coca Cola",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Coca Cola light",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Fanta",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Sprite",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Spezi",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Apfelsaftschorle",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Bitter Lemon",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Ginger Ale",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.80, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Bionade Holunder",
+            "prices": [
+              { "amount": "0.33 l", "price": 3.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Bionade Ingwer Orange",
+            "prices": [
+              { "amount": "0.33 l", "price": 3.50, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Weine",
+        "items": [
+          {
+            "name": "Dornfelder (rot)",
+            "description": "Pfalz, trocken",
+            "prices": [
+              { "amount": "0.20 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Riesling (weiß)",
+            "description": "Pfalz, trocken",
+            "prices": [
+              { "amount": "0.20 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Portugieser Weißherbst (rosé)",
+            "description": "Pfalz, halbtrocken",
+            "prices": [
+              { "amount": "0.20 l", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Weißweinschorle",
+            "prices": [
+              { "amount": "0.20 l", "price": 4.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Apfelwein",
+            "prices": [
+              { "amount": "0.20 l", "price": 2.50, "currency": "EUR" },
+              { "amount": "0.40 l", "price": 4.50, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Biere",
+        "items": [
+          {
+            "name": "Licher Pils oder Alkoholfrei",
+            "prices": [
+              { "amount": "0.33 l", "price": 3.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Franziskaner Weizenbier",
+            "description": "Hell oder Alkoholfrei",
+            "prices": [
+              { "amount": "0.50 l", "price": 4.20, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Prosecco",
+        "items": [
+          {
+            "name": "Aperol Spritz",
+            "prices": [
+              { "amount": "0.20 l", "price": 6.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Hugo",
+            "description": "mit Holundersirup & frischer Minze",
+            "prices": [
+              { "amount": "0.20 l", "price": 6.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Prosecco Scavi & Ray",
+            "prices": [
+              { "amount": "Glas 0.10 l", "price": 4.20, "currency": "EUR" },
+              { "amount": "Flasche 0.75 l", "price": 28.90, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spirituosen",
+        "items": [
+          {
+            "name": "Asbach Uralt",
+            "prices": [
+              { "amount": "2 cl", "price": 3.00, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Dark Rum",
+            "prices": [
+              { "amount": "2 cl", "price": 3.00, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Kirschwasser",
+            "prices": [
+              { "amount": "2 cl", "price": 3.00, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Amaretto",
+            "prices": [
+              { "amount": "2 cl", "price": 3.00, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Ramazzotti",
+            "prices": [
+              { "amount": "2 cl", "price": 3.00, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Bailey's",
+            "prices": [
+              { "amount": "2 cl", "price": 3.00, "currency": "EUR" }
+            ]
+          },
+          
+      {
+        "name": "Im Ofen Gebacken",
+        "items": [
+          {
+            "name": "Salamibaguette",
+            "description": "mit Tomaten & Käse überbacken",
+            "prices": [
+              { "amount": "Stück", "price": 9.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Knoblauchbaguette",
+            "description": "mit Salami, Paprika & Käse überbacken",
+            "prices": [
+              { "amount": "Stück", "price": 9.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Schinkenbaguette",
+            "description": "mit Tomaten & Käse überbacken",
+            "prices": [
+              { "amount": "Stück", "price": 9.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Thunfischbaguette",
+            "description": "mit Tomaten, Paprika & Käse überbacken",
+            "prices": [
+              { "amount": "Stück", "price": 9.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Vegetarisches Baguette",
+            "description": "mit Tomaten, Paprika, Champignon & Käse überbacken",
+            "prices": [
+              { "amount": "Stück", "price": 9.90, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Schnitzel",
+        "items": [
+          {
+            "name": "Schweineschnitzel Wiener Art",
+            "description": "mit Kartoffelsalat oder Bratkartoffeln",
+            "prices": [
+              { "amount": "Portion", "price": 12.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Schweineschnitzel Hawaii",
+            "description": "mit Ananas, Schinken & Käse überbacken",
+            "prices": [
+              { "amount": "Portion", "price": 13.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Holsteiner Schnitzel mit 2 Spiegeleiern",
+            "description": "mit Kartoffelsalat oder Bratkartoffeln",
+            "prices": [
+              { "amount": "Portion", "price": 14.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Schweineschnitzel mit Rösti Zwiebeln",
+            "description": "mit Kartoffelsalat oder Bratkartoffeln",
+            "prices": [
+              { "amount": "Portion", "price": 14.90, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Frische Salate",
+        "items": [
+          {
+            "name": "Gemischter Salat",
+            "description": "mit Joghurtdressing oder Essig/Öl",
+            "prices": [
+              { "amount": "Portion", "price": 8.90, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kleine Gerichte",
+        "items": [
+          {
+            "name": "Folienkartoffel",
+            "description": "mit Kräuterquark",
+            "prices": [
+              { "amount": "Portion", "price": 6.90, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kaffeespezialitäten",
+        "description": "Spezialitäten mit HEIMBS & Allegretto",
+        "items": [
+          {
+            "name": "Pharisäer",
+            "description": "Alter Jamaika-Rum 4cl & Heimbs Kaffee geben dem frischen Traditionsgetränk eine einzigartige Note",
+            "prices": [
+              { "amount": "Tasse", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Russische Schokolade",
+            "description": "Ein wahrer Genuss mit mildem Wodka 4cl & feinster herber Schokolade",
+            "prices": [
+              { "amount": "Tasse", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Irish Coffee",
+            "description": "Bester Irish Whiskey 4cl, Heimbs Kaffee & brauner Rohrzucker verbinden sich zu einem Geschmackserlebnis",
+            "prices": [
+              { "amount": "Tasse", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Cafe Amaretto",
+            "description": "mit Amaretto 4cl & Sahnehaube",
+            "prices": [
+              { "amount": "Tasse", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Rüdesheimer Kaffee",
+            "description": "mit Asbach Uralt 4cl & Heimbs Kaffee",
+            "prices": [
+              { "amount": "Tasse", "price": 6.50, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Eisgetränke",
+        "description": "Laktosefreie Milch, Hafermilch + 0,50",
+        "items": [
+          {
+            "name": "Eiscafé",
+            "description": "feiner kalter Heimbs Kaffee mit Vanilleeis und Sahnehaube",
+            "prices": [
+              { "amount": "Glas", "price": 5.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Gr. Eiskaffee",
+            "description": "mit doppelt Vanilleeis & Sahnehaube",
+            "prices": [
+              { "amount": "Glas", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Eisschokolade",
+            "description": "mit Vanilleeis, Schokoladeneis & Sahne",
+            "prices": [
+              { "amount": "Glas", "price": 5.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Gr. Eisschokolade",
+            "prices": [
+              { "amount": "Glas", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Sanfter Engel",
+            "description": "Erfrischend frischer gepresster Orangensaft mit Vanilleeis",
+            "prices": [
+              { "amount": "Glas", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Milchshake",
+            "description": "herrlich kalt & erfrischend, mit Milch und einer Eissorte nach Wahl gemixt",
+            "prices": [
+              { "amount": "Glas", "price": 5.50, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Leckereien für den kleinen Hunger",
+        "items": [
+          {
+            "name": "Frisch gebackene Waffel mit heißen Sauerkirschen",
+            "description": "Vanilleeis & Sahne",
+            "prices": [
+              { "amount": "Portion", "price": 7.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Frisch gebackene Waffel mit Birnenstücken",
+            "description": "Vanilleeis & Sahne",
+            "prices": [
+              { "amount": "Portion", "price": 7.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Frisch gebackene Waffel mit heißen Himbeeren",
+            "description": "Vanilleeis & Sahne",
+            "prices": [
+              { "amount": "Portion", "price": 7.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Frisch gebackene Waffel mit heißen Heidelbeeren",
+            "description": "Vanilleeis & Sahne",
+            "prices": [
+              { "amount": "Portion", "price": 7.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Frisch gebackene Waffel mit Puderzucker",
+            "prices": [
+              { "amount": "Portion", "price": 4.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Waffel selbst gestalten - Waffel",
+            "prices": [
+              { "amount": "Stück", "price": 4.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Waffel selbst gestalten - Portion Sahne",
+            "prices": [
+              { "amount": "Portion", "price": 1.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Waffel selbst gestalten - 1 Kugel Eis",
+            "prices": [
+              { "amount": "Kugel", "price": 1.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Waffel selbst gestalten - Portion Obst",
+            "description": "Erdbeere, Banane, Birne, Himbeere, Heidelbeere oder Kirsche",
+            "prices": [
+              { "amount": "Portion", "price": 1.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Palatwaffel",
+            "description": "2 gebackene Waffel, gefüllt mit feinem Wallnußeis, Mandeln, Schokoladensauce & Sahne",
+            "prices": [
+              { "amount": "Portion", "price": 11.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Apfelstrudel",
+            "description": "mit Vanilleeis & Sahne",
+            "prices": [
+              { "amount": "Portion", "price": 6.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Kaiserschmarren",
+            "description": "mit Sauerkirschen, Aprikosen oder Apfelmus & Sahne",
+            "prices": [
+              { "amount": "Portion", "price": 12.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Quark",
+            "description": "mit verschiedene Früchte",
+            "prices": [
+              { "amount": "Portion", "price": 5.90, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Süsse Pfannkuchen",
+        "items": [
+          {
+            "name": "Pfannkuchen mit Puderzucker",
+            "prices": [
+              { "amount": "Portion", "price": 5.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Pfannkuchen mit Zimt & Zucker",
+            "prices": [
+              { "amount": "Portion", "price": 5.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Pfannkuchen mit Nutella",
+            "prices": [
+              { "amount": "Portion", "price": 6.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Pfannkuchen mit Eis & Sahne",
+            "prices": [
+              { "amount": "Portion", "price": 7.50, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "name": "Kleine Gerichte",
+        "items": [
+          {
+            "name": "Folienkartoffel",
+            "description": "mit Kräuterquark",
+            "prices": [
+              { "amount": "Portion", "price": 6.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Folienkartoffel Spezial",
+            "description": "mit Kräuterquark & Räucherlachs",
+            "prices": [
+              { "amount": "Portion", "price": 9.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Leberkäse",
+            "description": "mit Spiegelei & Kartoffelsalat",
+            "prices": [
+              { "amount": "Portion", "price": 9.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Frankfurter Würstchen",
+            "description": "mit Kartoffelsalat",
+            "prices": [
+              { "amount": "Portion", "price": 6.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Lachstoast",
+            "description": "frischer Räucherlachs auf 2 Buttertoastscheiben mit Sahnemeerrettich fein garniert",
+            "prices": [
+              { "amount": "Portion", "price": 12.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Spargeltoast",
+            "description": "mit gekochtem Schinken, Sauce Hollandaise & Käse überbacken",
+            "prices": [
+              { "amount": "Portion", "price": 10.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Hawaiitoast",
+            "description": "mit gekochtem Schinken & Käse überbacken, unterlegt mit Ananas, Pfirsich oder Birne",
+            "prices": [
+              { "amount": "Portion", "price": 10.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "2 kleine gebackene Camembert",
+            "description": "aus der Pfanne mit Preiselbeeren, Buttertoast & feinen Früchten",
+            "prices": [
+              { "amount": "Portion", "price": 9.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Backfisch",
+            "description": "aus der Pfanne mit Kartoffelsalat & Remoulade",
+            "prices": [
+              { "amount": "Portion", "price": 12.90, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Unsere Pfannkuchen Empfehlung",
+        "subcategories": [
+          {
+            "name": "Süsse Pfannkuchen",
+            "items": [
+              {
+                "name": "Pfannkuchen mit Puderzucker",
+                "prices": [ { "amount": "Portion", "price": 5.50, "currency": "EUR" } ]
+              },
+              {
+                "name": "Pfannkuchen mit Zimt & Zucker",
+                "prices": [ { "amount": "Portion", "price": 5.50, "currency": "EUR" } ]
+              },
+              {
+                "name": "Pfannkuchen mit Nutella",
+                "prices": [ { "amount": "Portion", "price": 6.50, "currency": "EUR" } ]
+              },
+              {
+                "name": "Pfannkuchen mit Eis & Sahne",
+                "prices": [ { "amount": "Portion", "price": 7.50, "currency": "EUR" } ]
+              },
+              {
+                "name": "Pfannkuchen mit Eis & Vanillesoße",
+                "prices": [ { "amount": "Portion", "price": 7.50, "currency": "EUR" } ]
+              },
+              {
+                "name": "Pfannkuchen mit Eis & Bananen",
+                "prices": [ { "amount": "Portion", "price": 7.50, "currency": "EUR" } ]
+              },
+              {
+                "name": "Pfannkuchen mit Eis & Kirschen",
+                "prices": [ { "amount": "Portion", "price": 7.50, "currency": "EUR" } ]
+              }
+            ]
+          },
+          {
+            "name": "Herzhafte Pfannkuchen",
+            "items": [
+              {
+                "name": "Pfannkuchen mit Schinken & Käse",
+                "prices": [ { "amount": "Portion", "price": 8.90, "currency": "EUR" } ]
+              },
+              {
+                "name": "Pfannkuchen mit Bacon & Käse",
+                "prices": [ { "amount": "Portion", "price": 8.90, "currency": "EUR" } ]
+              },
+              {
+                "name": "Pfannkuchen mit Weichkäse & Petersilie",
+                "prices": [ { "amount": "Portion", "price": 8.90, "currency": "EUR" } ]
+              },
+              {
+                "name": "Pfannkuchen mit Räucherlachs & Frischkäse",
+                "prices": [ { "amount": "Portion", "price": 12.90, "currency": "EUR" } ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Heisse Getränke",
+        "description": "Laktosefreie Milch, Hafermilch + 0,50",
+        "items": [
+          {
+            "name": "Heimbs Kaffee",
+            "prices": [
+              { "amount": "Tasse", "price": 2.50, "currency": "EUR" },
+              { "amount": "Becher", "price": 3.90, "currency": "EUR" },
+              { "amount": "Kännchen", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Heimbs entkoffeiniert",
+            "prices": [
+              { "amount": "Tasse", "price": 2.50, "currency": "EUR" },
+              { "amount": "Becher", "price": 3.90, "currency": "EUR" },
+              { "amount": "Kännchen", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Caffé Crema",
+            "prices": [
+              { "amount": "Tasse", "price": 2.90, "currency": "EUR" },
+              { "amount": "Gr. Tasse", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Cappuccino mit Milch aufgeschäumt",
+            "prices": [
+              { "amount": "Tasse", "price": 2.90, "currency": "EUR" },
+              { "amount": "Gr. Tasse", "price": 4.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Cappuccino mit Sahne",
+            "prices": [
+              { "amount": "Tasse", "price": 3.20, "currency": "EUR" },
+              { "amount": "Gr. Tasse", "price": 5.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Latte Macchiato",
+            "prices": [
+              { "amount": "Glas", "price": 3.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Latte Macchiato mit Aromen",
+            "prices": [
+              { "amount": "Glas", "price": 3.80, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Milchkaffee klein",
+            "prices": [
+              { "amount": "Tasse", "price": 2.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Milchkaffee groß",
+            "prices": [
+              { "amount": "Tasse", "price": 4.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Italienischer Espresso",
+            "prices": [
+              { "amount": "Tasse", "price": 2.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Doppelter Espresso",
+            "prices": [
+              { "amount": "Tasse", "price": 3.20, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Espresso Macchiato",
+            "prices": [
+              { "amount": "Tasse", "price": 2.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Heisse Schokolade mit Sahne",
+            "prices": [
+              { "amount": "Becher", "price": 3.90, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Heisse Schokolade ohne Sahne",
+            "prices": [
+              { "amount": "Becher", "price": 3.60, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Heisse Zitrone Natur",
+            "prices": [
+              { "amount": "Glas", "price": 3.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Frische Minze Tee",
+            "prices": [
+              { "amount": "Glas", "price": 3.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Warme Milch",
+            "prices": [
+              { "amount": "Glas", "price": 2.50, "currency": "EUR" }
+            ]
+          },
+          {
+            "name": "Warme Milch mit Honig",
+            "prices": [
+              { "amount": "Glas", "price": 3.50, "currency": "EUR" }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "name": "Frühstück - Der Start in den Tag",
+        "items": [
+          {
+            "name": "Friedberger Frühstück",
+            "description": "2 Brötchen, Portion Butter, 1 Konfitüre, Frischkäse, Portion Aufschnittswurst & Käse",
+            "prices": [ { "amount": "Portion", "price": 8.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Käse Frühstück",
+            "description": "2 Brötchen, Portion Butter, Frischkäse, Konfitüre, Portionsteller mit Schnittkäse & Camenbert",
+            "prices": [ { "amount": "Portion", "price": 8.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Hessen Frühstück",
+            "description": "2 Brötchen, Portion Butter, 1 Konfitüre, Frischkäse, Portion Quark, 1 gekochtes Ei, Portion Aufschnittswurst & Käse",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Franzosen Frühstück",
+            "description": "2 Croissants, Portion Butter, 2 Konfitüre und 1 Glas Orangensaft",
+            "prices": [ { "amount": "Portion", "price": 8.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Burg Frühstück",
+            "description": "2 Brötchen, Portion Butter, 2 Konfitüre, Frischkäse, Portionsteller mit Wurst & Käse, 1 Glas Orangensaft, 2 Rühr- oder Spiegeleier mit Schinken",
+            "prices": [ { "amount": "Portion", "price": 14.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Seemanns Frühstück",
+            "description": "2 Brötchen, Portion Butter, Frischkäse, Portion frischer Räucherlachs mit Sahnemeerrettich & 1 gekochtes Ei",
+            "prices": [ { "amount": "Portion", "price": 14.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Schinken Frühstück",
+            "description": "2 Brötchen, Portion Butter, 2 Konfitüre, Frischkäse, Portionsteller mit rohem & gekochtem Schinken, 2 Rühr -oder Spiegeleier mit Schinken",
+            "prices": [ { "amount": "Portion", "price": 14.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Fitness Frühstück",
+            "description": "2 Roggenbrötchen, Portion Frischkäse, Portion Honig, 1 gekochtes Ei, 1 kleine Portion Quark mit Früchten und Haferflocken & 1 kleine O-Saft 01l",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Das Kissler Frühstück für 2",
+            "description": "pro Person 2 Brötchen nach Wahl, 1 Portion Butter, 1 Konfitüre, 1x Frischkäse, Portionsteller mit Wurst & Käse, 1 Orangensaft 0,1l, 1 Rühr -oder Spiegeleier mit Schinken & 1 Glas Sekt",
+            "prices": [ { "amount": "für 2 Personen", "price": 26.90, "currency": "EUR" } ]
+          }
+        ]
+      },
+      {
+        "name": "Frühstück - Extras",
+        "items": [
+          {
+            "name": "1 Rührei oder Spiegelei",
+            "prices": [ { "amount": "Stück", "price": 2.20, "currency": "EUR" } ]
+          },
+          {
+            "name": "1 Frühstücksei",
+            "prices": [ { "amount": "Stück", "price": 1.20, "currency": "EUR" } ]
+          },
+          {
+            "name": "1 Brötchen",
+            "prices": [ { "amount": "Stück", "price": 0.80, "currency": "EUR" } ]
+          },
+          {
+            "name": "1 Vollkorn Brötchen",
+            "prices": [ { "amount": "Stück", "price": 1.00, "currency": "EUR" } ]
+          },
+          {
+            "name": "1 Croissant",
+            "prices": [ { "amount": "Stück", "price": 2.00, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Butter",
+            "prices": [ { "amount": "Portion", "price": 1.20, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Frischkäse",
+            "prices": [ { "amount": "Portion", "price": 1.20, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Konfitüre, Honig oder Nutella",
+            "prices": [ { "amount": "Portion", "price": 1.20, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Quark",
+            "prices": [ { "amount": "Portion", "price": 1.50, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Kräuterquark",
+            "prices": [ { "amount": "Portion", "price": 2.50, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Salami, Käse",
+            "prices": [ { "amount": "Portion", "price": 4.50, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Bacon (7 Scheiben)",
+            "prices": [ { "amount": "Portion", "price": 5.50, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Koch- oder Rohschinken",
+            "prices": [ { "amount": "Portion", "price": 5.50, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion geräucherte Putenbrust",
+            "prices": [ { "amount": "Portion", "price": 5.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Räucherlachs mit Sahnemeerrettich",
+            "prices": [ { "amount": "Portion", "price": 7.50, "currency": "EUR" } ]
+          },
+          {
+            "name": "Portion Sucuk (türk. Knoblauchwurst) gebraten",
+            "prices": [ { "amount": "Portion", "price": 5.50, "currency": "EUR" } ]
+          }
+        ]
+      },
+      {
+        "name": "Jetzt kommt der Eiermann !",
+        "items": [
+          {
+            "name": "2 Eier im Glas",
+            "description": "mit Butterbrötchen",
+            "prices": [ { "amount": "Portion", "price": 4.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Rühreier ohne Beilage",
+            "description": "dazu 1 Brötchen & Portion Butter",
+            "prices": [ { "amount": "Portion", "price": 6.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Rühreier mit Kochschinken",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Rühreier mit Bacon",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Rühreier mit Käse & Petersilie",
+            "prices": [ { "amount": "Portion", "price": 8.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Rühreier mit Weichkäse & Paprika",
+            "prices": [ { "amount": "Portion", "price": 8.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Rühreier mit Sucuk (türk. Knoblauchwurst)",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Spiegeleier ohne Beilage",
+            "description": "dazu 1 Brötchen & Portion Butter",
+            "prices": [ { "amount": "Portion", "price": 6.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Spiegeleier mit Kochschinken",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Spiegeleier mit Bacon",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "3 Spiegeleier mit Sucuk (türk. Knoblauchwurst)",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Kleiner Landsnack",
+            "description": "2 Spiegeleier mit gebratenem Frühstücksbacon auf Butterbrot fein garniert",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Strammer Max",
+            "description": "frisches Brot mit Kochschinken & 2 Spiegeleiern belegt, auf Wunsch auch mit Käse",
+            "prices": [ { "amount": "Portion", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Schlemmerschnitte",
+            "description": "3 Spiegeleier auf frischem Brot, unterlegt mit frischen Tomaten, Schmelzkäse & Kochschinken",
+            "prices": [ { "amount": "Portion", "price": 12.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Schwarzwaldteller",
+            "description": "frisches Brot mit original Schwarzwälder Schinken & 2 Spiegeleiern fein garniert",
+            "prices": [ { "amount": "Portion", "price": 12.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Champignonomelette",
+            "description": "mit frischen Champignons aus 3 Rühreiern mit Schinken dazu Butterbrötchen",
+            "prices": [ { "amount": "Portion", "price": 12.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Bauernschmaus",
+            "description": "Portion Bratkartoffeln aus der Pfanne mit 3 Rühreiern & Schinken gebraten dazu frisches Brot oder Brötchen",
+            "prices": [ { "amount": "Portion", "price": 12.90, "currency": "EUR" } ]
+          }
+        ]
+      },
+      {
+        "name": "Im Ofen Gebacken",
+        "items": [
+          {
+            "name": "Salamibaguette",
+            "description": "mit Tomaten & Käse überbacken",
+            "prices": [ { "amount": "Stück", "price": 9.90, "currency": "EUR" } ]
+          },
+          {
+            "name": "Knoblauchbaguette",
+            "description": "mit Salami, Paprika & Käse überbacken",
+            "prices": [ { "amount": "Stück", "price": 9.90, "currency": "EUR" } ]
+          }
+        ]
+      }
+        ]
+      }
+    ]
+  }
+}

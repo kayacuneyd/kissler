@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-size: 18px; /* Increased base font size */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+  letter-spacing: -0.02em; /* Tighter headings for elegance */
+}
+
+h1 {
+  @apply text-4xl md:text-5xl lg:text-6xl font-bold mb-6;
+}
+
+h2 {
+  @apply text-3xl md:text-4xl font-bold mb-4;
+}
+
+h3 {
+  @apply text-xl md:text-2xl font-semibold mb-2;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  line-height: 1.6; /* Better readability */
+}
+
+.btn {
+  @apply font-bold tracking-wide uppercase; /* Global button style */
+}
+
+.btn-secondary.btn-outline {
+  @apply bg-[#FBF7F0] border-secondary text-secondary hover:bg-secondary hover:text-white hover:border-secondary;
+}
+
+.card {
+  @apply rounded-2xl; /* Softer corners globally */
+}

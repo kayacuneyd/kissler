@@ -1,0 +1,35 @@
+{
+  "name": "kissler",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "import-menu": "node scripts/importMenu.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "^7.0.0",
+    "@sveltejs/kit": "^2.49.1",
+    "@sveltejs/vite-plugin-svelte": "^6.2.1",
+    "autoprefixer": "^10.4.22",
+    "daisyui": "^4.4.19",
+    "postcss": "^8.5.6",
+    "svelte": "^5.45.5",
+    "tailwindcss": "^3.4.1",
+    "vite": "^7.2.6"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cloudinary": "^2.8.0",
+    "dotenv": "^17.2.3",
+    "jsonwebtoken": "^9.0.3",
+    "leaflet": "^1.9.4",
+    "mongodb": "^7.0.0",
+    "resend": "^6.5.2"
+  }
+}
