@@ -58,22 +58,22 @@
 
 <div class="hero min-h-[85vh]" style="background-image: url(https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);">
   <div class="hero-overlay bg-black bg-opacity-50"></div>
-  <div class="hero-content text-center text-neutral-content">
+  <div class="hero-content text-center text-neutral-content px-4">
     <div class="max-w-2xl">
-      <h1 class="mb-8 text-6xl md:text-7xl font-bold text-white drop-shadow-xl leading-tight">Tradition trifft Gemütlichkeit</h1>
-      <p class="mb-10 text-xl md:text-2xl font-light text-gray-100 tracking-wide">Im Herzen von Friedberg – Ihre Bäckerei und Ihr Café seit Generationen.</p>
-      <div class="flex gap-6 justify-center">
-        <a href="/menu" class="btn btn-primary btn-lg px-10 shadow-xl hover:scale-105 transition-transform border-none text-white">Zum Café-Menü</a>
-        <a href="/contact" class="btn btn-outline btn-secondary btn-lg px-10 text-white hover:bg-secondary hover:border-secondary hover:text-white transition-all">Kontakt</a>
+      <h1 class="mb-6 md:mb-8 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white drop-shadow-xl leading-tight">Tradition trifft Gemütlichkeit</h1>
+      <p class="mb-8 md:mb-10 text-lg md:text-xl lg:text-2xl font-light text-gray-100 tracking-wide">Im Herzen von Friedberg – Ihre Bäckerei und Ihr Café seit Generationen.</p>
+      <div class="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center">
+        <a href="/menu" class="btn btn-primary btn-lg w-full sm:w-auto px-10 shadow-xl hover:scale-105 transition-transform border-none text-white">Zum Café-Menü</a>
+        <a href="/contact" class="btn btn-outline btn-secondary btn-lg w-full sm:w-auto px-10 text-white hover:bg-secondary hover:border-secondary hover:text-white transition-all">Kontakt</a>
       </div>
     </div>
   </div>
 </div>
 
-<section class="py-24 px-6 bg-base-100">
+<section class="py-12 md:py-24 px-4 md:px-6 bg-base-100">
   <div class="container mx-auto">
-    <h2 class="text-4xl md:text-5xl font-bold text-center mb-16 text-primary">Warum Café Kissler?</h2>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-8 md:mb-16 text-primary">Warum Café Kissler?</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
       
       <!-- Backstube -->
       <div class="card bg-base-100 shadow-xl hover:shadow-2xl transition-all duration-300 border border-base-200 overflow-hidden group">
