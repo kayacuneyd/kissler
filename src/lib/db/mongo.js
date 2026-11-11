@@ -1,32 +1,31 @@
 import { MongoClient } from 'mongodb';
 import { env } from '$env/dynamic/private';
 
-const uri = env.MONGODB_URI;
 const options = {};
-
-let client;
 let clientPromise;
 
-if (!uri) {
-  // Warning instead of error to allow build without env
-  console.warn('Please add MONGODB_URI to .env');
-} else {
-  if (process.env.NODE_ENV === 'development') {
-    if (!global._mongoClientPromise) {
-      client = new MongoClient(uri, options);
-      global._mongoClientPromise = client.connect();
+// Only connect when a request actually needs database access.
+// Importing this module during a Vercel build must not start a DNS lookup.
+function getClient() {
+  if (!clientPromise) {
+    const uri = env.MONGODB_URI;
+    if (!uri) throw new Error('MONGODB_URI is not configured');
+
+    if (process.env.NODE_ENV === 'development') {
+      if (!global._mongoClientPromise) {
+        global._mongoClientPromise = new MongoClient(uri, options).connect();
+      }
+      clientPromise = global._mongoClientPromise;
+    } else {
+      clientPromise = new MongoClient(uri, options).connect();
     }
-    clientPromise = global._mongoClientPromise;
-  } else {
-    client = new MongoClient(uri, options);
-    clientPromise = client.connect();
   }
+  return clientPromise;
 }
 
 export { clientPromise as client };
 
 export const db = async () => {
-  if (!clientPromise) throw new Error('Database not connected');
-  const c = await clientPromise;
-  return c.db('cafe_kissler');
+  const connection = await getClient();
+  return connection.db('cafe_kissler');
 };
